@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @lwalton101
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+oink
+moo
+bahhh
+neighhh
+shrouble
+idk anymore
 
 <!---
 lwalton101/lwalton101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
